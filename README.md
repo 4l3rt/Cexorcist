@@ -2,9 +2,10 @@
 
 
 just open `Cexorcist.cmd` on Windows 10  
-machine by double-clicking. Check  
-all boxes and proceed when Disk Cleaner  
-window appears. Every other process is automated.  
+machine by double-clicking. 
+Check all boxes and proceed 
+when Disk Cleaner window appears. 
+Every other process is automated.  
 
 
 ---
