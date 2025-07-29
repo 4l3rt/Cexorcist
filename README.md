@@ -1,25 +1,18 @@
+**Basic usage:**  
+just open `Cexorcist.cmd` on Windows 10  
+machine by double-clicking. Check  
+all boxes and proceed when Disk Cleaner  
+window appears. Every other process is automated.  
 
-basic usage:
+---
 
-just open Cexorcist.cmd on windows10␣␣ 
-machine by double clicking, ckeck ␣␣ 
-all boxes and proceed when diskCleaner␣␣ 
-windowappears. every other process is automated.␣␣ 
+**BEFORE EXECUTING THE SCRIPT NOTE:**  
 
+**What it does:**  
+- Deletes temp folder data  
+- Deletes %TEMP% folder data  
+- Deletes prefetch data  
+- Initializes Disk Cleaner  
+- Deletes installation files from Downloads and Desktop  
 
-BEFORE EXECUTING THE SCRIPT NOTE:␣␣ 
-
-
-what it does:␣␣ 
-
-deletes temp folder data␣␣ 
-deletes %temp% folder data␣␣ 
-deletes prefetch data␣␣ 
-initialazes disk cleaner␣␣ 
-and deletes intallation files on Dwonloads and desktop folder␣␣ 
-
-
-(this is not an antivirus and mostlikely won't be effective against any malware)␣␣ 
-
-
-
+_(This is not an antivirus and most likely won't be effective against any malware)_
