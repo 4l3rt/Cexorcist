@@ -14,7 +14,6 @@ for /d %%x in ("%TEMP%\*") do rd /s /q "%%x" >nul 2>&1
 
 
 
-:: Preconfigure cleanmgr once with all boxes checked — only runs first time
 reg query "HKCU\Software\Microsoft\Windows\CurrentVersion\Explorer\VolumeCaches" >nul 2>&1
 if %errorlevel% NEQ 0 (
     echo Configuring Disk Cleanup preset...
