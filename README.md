@@ -1,10 +1,10 @@
 
 basic usage:
 
-just open Cexorcist.cmd on windows10 \n
+just open Cexorcist.cmd on windows10
 machine by double clicking, ckeck 
-all boxes and proceed when diskCleaner window
-appears. every other process is automated.
+all boxes and proceed when diskCleaner
+windowappears. every other process is automated.
 
 
 BEFORE EXECUTING THE SCRIPT NOTE:
