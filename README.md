@@ -1,7 +1,7 @@
 
 basic usage:
 
-just open Cexorcist.cmd on windows10
+just open Cexorcist.cmd on windows10 \n
 machine by double clicking, ckeck 
 all boxes and proceed when diskCleaner window
 appears. every other process is automated.
