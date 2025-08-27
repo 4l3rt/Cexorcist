@@ -1,3 +1,6 @@
+**Simple windows10 cmd script for Disk Celaning/Bloatware removal** 
+
+
 **Basic usage:**  
 
 
