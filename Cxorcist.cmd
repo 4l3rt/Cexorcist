@@ -22,6 +22,11 @@ for /d %%x in (C:\Windows\Prefetch\*) do rd /s /q "%%x" >nul 2>&1
 echo Deleting C:\Windows\SoftwareDistribution\Download...
 del /s /f /q C:\Windows\SoftwareDistribution\Download\*.* >nul 2>&1
 for /d %%x in (C:\Windows\SoftwareDistribution\Download\*) do rd /s /q "%%x" >nul 2>&1
+
+echo Deleting C:\Windows\SoftwareDistribution\DataStore...
+del /s /f /q C:\Windows\SoftwareDistribution\DataStore\*.* >nul 2>&1
+for /d %%x in (C:\Windows\SoftwareDistribution\DataStore\*) do rd /s /q "%%x" >nul 2>&1
+
  
 echo Deleting .exe/.msi/.rar from Downloads...
 for %%X in (exe msi rar 7z) do (
